@@ -1,4 +1,4 @@
-# Agentic AI: The Weapon That No Longer Requires a Warrior
+# The Keyboard Is No Longer the Trigger
 
 Offensive AI is the point where the weapon learns how to target itself.
 
