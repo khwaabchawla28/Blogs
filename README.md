@@ -1,13 +1,11 @@
-# The Keyboard Is No Longer the Trigger
+# Blogs
 
-Offensive AI is the point where the weapon learns how to target itself.
+Hey, I'm Khwaab Chawla — cybersecurity enthusiast, red teamer, and someone who spends way too much time reading about things that break stuff.
 
-On and off for three years, AI has been the tool which extended the reach of the pen. It wrote the phishing email, suggested the exploit, drew up the code for the malicious payload, and then, like each tool which preceded it, returned its draft to the human to implement.
+This is where I dump my thoughts on whatever I've been reading — offensive security, AI, networking, the latest CVEs, emerging tech, and anything else that catches my attention. These aren't tutorials. They're raw takes on things I found interesting enough to write about.
 
-In 2023, I published a whitepaper at the SANS Technology Institute about how anyone of even minimal skill could guide a chatbot towards writing malware which breezed right through the controls meant to stop it. This was the era of the assistant: highly dangerous, but always restrained by the operator who wielded it.
+If you're into that kind of stuff, stick around.
 
-Agentic AI breaks that restraint.
+## Posts
 
-It follows the objective and implements its own means to achieve it. This simple shift from tool which drafts to tool which acts is transforming offensive operations faster than the defensive controls which seek to detect them, and doing so in both directions at once.
-
-It gives capability to attackers who have none, and accelerates to ferocity those who are already deadly.
+- [The Keyboard Is No Longer the Trigger](agentic-ai/) — Agentic AI is changing the offensive landscape faster than defensive controls can keep up.
